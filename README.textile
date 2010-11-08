@@ -1,0 +1,5 @@
+
+h3. USAGE
+
+bc. rake rails:template LOCATION=https://github.com/tb/rails-templates/raw/master/jquery_colourbox.rb
+
